@@ -1,0 +1,16 @@
+{
+  "name": "wang-formitem",
+  "version": "0.0.0",
+  "description": "wang-formitem component",
+  "main": "dist/cjs/index.js",
+  "module": "dist/es/index.js",
+  "author": "xiangzi <7555638369@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async-validator": "^3.5.1"
+  },
+  "keywords": []
+}
