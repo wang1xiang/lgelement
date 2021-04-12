@@ -7,7 +7,9 @@
   "author": "xiangzi <7555638369@qq.com>",
   "license": "MIT",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c",
+    "del": "rimraf dist"
   },
   "dependencies": {
     "lodash": "4"
